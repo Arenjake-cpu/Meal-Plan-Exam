@@ -51,3 +51,5 @@ function showMealPlan() {
     document.getElementById('form-container').classList.add('hidden');
     document.getElementById('meal-plan').classList.remove('hidden');
 }
+
+
